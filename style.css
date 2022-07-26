@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    padding: 50px;
+    background-color:#b56dd6;
+}
+h1{
+    background-color:hwb(192 0% 0%);
+}
+h3{
+    background-color:palevioletred;
+}
+img{
+    background-image:pink;
+}
